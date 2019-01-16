@@ -1,6 +1,6 @@
 # Transport API
 
-## To build and run the application perform:
+## To build the application perform:
 
 1. npm i
 2. npm run build
